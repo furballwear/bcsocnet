@@ -1,0 +1,1 @@
+This is social networking site where you can connect to people all around the world. You can share your thoughts, photos, videos, notes, and many more.
